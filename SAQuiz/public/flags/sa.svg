@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <rect width="900" height="600" fill="#0f172a"/>
+  <!-- Continent outline / stylized South America emblem -->
+  <g transform="translate(450, 300) scale(0.65)" fill="#38bdf8" opacity="0.95">
+    <path d="M-60,-180 C-20,-190 60,-170 100,-120 C140,-80 180,0 160,80 C140,160 80,240 20,320 C0,350 -20,380 -30,400 C-40,380 -50,330 -60,280 C-80,200 -140,120 -150,40 C-160,-20 -130,-120 -60,-180 Z" fill="#38bdf8"/>
+    <circle cx="20" cy="50" r="14" fill="#fbbf24"/>
+    <circle cx="90" cy="20" r="10" fill="#f59e0b"/>
+    <circle cx="-50" cy="80" r="10" fill="#34d399"/>
+    <circle cx="10" cy="200" r="10" fill="#a78bfa"/>
+  </g>
+  <text x="450" y="550" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="28" font-weight="bold" letter-spacing="4">SOUTH AMERICA</text>
+</svg>

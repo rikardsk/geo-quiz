@@ -1,0 +1,16 @@
+{
+  "name": "geo-quiz-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Collection of interactive geography quizzes (US States, EU Countries, South America, Swedish Counties)",
+  "workspaces": [
+    "EUQuiz",
+    "SAQuiz",
+    "StateQuiz",
+    "SwedishCountiesQuiz"
+  ],
+  "scripts": {
+    "test": "npm test --workspaces --if-present",
+    "build": "npm run build --workspaces --if-present"
+  }
+}
