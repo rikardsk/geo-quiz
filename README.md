@@ -20,6 +20,7 @@ Test your knowledge of capitals, flags, geographical boundaries, and regions acr
 | **MEQuiz** | 🌍 Middle East | Middle Eastern Nations & UAE Emirates, Capitals, Flags | Interactive Middle East Map |
 | **OceaniaQuiz** | 🌏 Oceania & Southeast Asia | Oceania & Southeast Asian Nations, Capitals, Flags | Interactive Oceania Map |
 | **AsiaCentralQuiz** | 🌏 South & Central Asia | 13 Nations, Capitals, Flags | Interactive South & Central Asia Map |
+| **AsiaEastQuiz** | 🌏 South & East Asia | 17 Nations, Capitals, Flags | Interactive South & East Asia Map |
 
 ---
 
