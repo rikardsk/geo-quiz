@@ -11,11 +11,14 @@ Test your knowledge of capitals, flags, geographical boundaries, and regions acr
 | Quiz | Region | Focus | Map |
 | :--- | :--- | :--- | :--- |
 | **StateQuiz** | 🇺🇸 United States | 50 States, State Capitals, Abbreviations | Interactive US Map |
-| **EUQuiz** | 🇪🇺 Europe / European Union | European Countries, Capitals, Flags | Interactive Europe Map |
+| **EUQuiz** | 🇪🇺 European Union | EU Countries, Capitals, Flags | Interactive EU Map |
+| **EuroQuiz** | 🇪🇺 Europe | 46 European Countries, Capitals, Flags | Interactive Europe Map |
 | **SAQuiz** | 🌎 South America | South American Nations, Capitals, Flags | Interactive South America Map |
 | **LAQuiz** | 🌎 Central America & Caribbean | Central America & Caribbean Nations, Capitals, Flags | Interactive Central America & Caribbean Map |
 | **CanadaQuiz** | 🇨🇦 Canada | 10 Provinces & 3 Territories, Capitals | Interactive Canada Map |
 | **SwedishCountiesQuiz** | 🇸🇪 Sweden | 21 Counties (Län), County Seats, Regions | Interactive Sweden Map |
+| **MEQuiz** | 🌍 Middle East | Middle Eastern Nations & UAE Emirates, Capitals, Flags | Interactive Middle East Map |
+| **OceaniaQuiz** | 🌏 Oceania & Southeast Asia | Oceania & Southeast Asian Nations, Capitals, Flags | Interactive Oceania Map |
 
 ---
 
