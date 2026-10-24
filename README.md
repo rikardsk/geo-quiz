@@ -22,6 +22,7 @@ Test your knowledge of capitals, flags, geographical boundaries, and regions acr
 | **AsiaCentralQuiz** | 🌏 South & Central Asia | 13 Nations, Capitals, Flags | Interactive South & Central Asia Map |
 | **AsiaEastQuiz** | 🌏 South & East Asia | 17 Nations, Capitals, Flags | Interactive South & East Asia Map |
 | **AfricaSouthQuiz** | 🌍 South & East Africa | 27 Nations, Capitals, Flags | Interactive South & East Africa Map |
+| **AfricaNorthQuiz** | 🌍 North & West Africa | 27 Nations, Capitals, Flags | Interactive North & West Africa Map |
 
 ---
 

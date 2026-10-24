@@ -2,8 +2,9 @@
   "name": "geo-quiz-monorepo",
   "version": "1.0.0",
   "private": true,
-  "description": "Collection of interactive geography quizzes (US States, EU Countries, Europe, South America, Swedish Counties, Latin America, Canada, Middle East, Oceania, South & Central Asia, South & East Asia, South & East Africa)",
+  "description": "Collection of interactive geography quizzes (US States, EU Countries, Europe, South America, Swedish Counties, Latin America, Canada, Middle East, Oceania, South & Central Asia, South & East Asia, South & East Africa, North & West Africa)",
   "workspaces": [
+    "AfricaNorthQuiz",
     "AfricaSouthQuiz",
     "AsiaCentralQuiz",
     "AsiaEastQuiz",
