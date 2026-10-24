@@ -1,0 +1,31 @@
+{
+  "name": "asiacentralquiz",
+  "version": "1.0.0",
+  "description": "South & Central Asia Countries & Capitals Quiz",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "lucide-react": "^1.56.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "d3-geo": "^3.1.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.4"
+  }
+}

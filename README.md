@@ -19,6 +19,7 @@ Test your knowledge of capitals, flags, geographical boundaries, and regions acr
 | **SwedishCountiesQuiz** | 🇸🇪 Sweden | 21 Counties (Län), County Seats, Regions | Interactive Sweden Map |
 | **MEQuiz** | 🌍 Middle East | Middle Eastern Nations & UAE Emirates, Capitals, Flags | Interactive Middle East Map |
 | **OceaniaQuiz** | 🌏 Oceania & Southeast Asia | Oceania & Southeast Asian Nations, Capitals, Flags | Interactive Oceania Map |
+| **AsiaCentralQuiz** | 🌏 South & Central Asia | 13 Nations, Capitals, Flags | Interactive South & Central Asia Map |
 
 ---
 
