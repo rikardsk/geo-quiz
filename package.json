@@ -2,9 +2,10 @@
   "name": "geo-quiz-monorepo",
   "version": "1.0.0",
   "private": true,
-  "description": "Collection of interactive geography quizzes (US States, EU Countries, South America, Swedish Counties)",
+  "description": "Collection of interactive geography quizzes (US States, EU Countries, South America, Swedish Counties, Latin America)",
   "workspaces": [
     "EUQuiz",
+    "LAQuiz",
     "SAQuiz",
     "StateQuiz",
     "SwedishCountiesQuiz"

@@ -13,6 +13,7 @@ Test your knowledge of capitals, flags, geographical boundaries, and regions acr
 | **StateQuiz** | 🇺🇸 United States | 50 States, State Capitals, Abbreviations | Interactive US Map |
 | **EUQuiz** | 🇪🇺 Europe / European Union | European Countries, Capitals, Flags | Interactive Europe Map |
 | **SAQuiz** | 🌎 South America | South American Nations, Capitals, Flags | Interactive South America Map |
+| **LAQuiz** | 🌎 Central America & Caribbean | Central America & Caribbean Nations, Capitals, Flags | Interactive Central America & Caribbean Map |
 | **SwedishCountiesQuiz** | 🇸🇪 Sweden | 21 Counties (Län), County Seats, Regions | Interactive Sweden Map |
 
 ---
@@ -42,6 +43,9 @@ npm run dev --workspace=StateQuiz
 
 # Example: South America Quiz
 npm run dev --workspace=SAQuiz
+
+# Example: Central America & Caribbean Quiz
+npm run dev --workspace=LAQuiz
 
 # Example: Swedish Counties Quiz
 npm run dev --workspace=SwedishCountiesQuiz
